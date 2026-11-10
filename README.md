@@ -1,11 +1,9 @@
-<img width="1358" height="611" alt="image" src="https://github.com/user-attachments/assets/2473195a-c110-49de-80a8-59eeb76cf55c" /># superstore-sales-analysis-excel
 Sales, customers and products analysis in Excel
 
 # Superstore Sales Analysis (Excel)
 
 > **Project overview sheet** — Sales, customers and products analysis of a US retail dataset (Sample Superstore) built with Excel Tables, formulas and PivotTables.
-
-![Dashbord](<img width="1366" height="768" alt="Overview_Of_Dashbord" src="https://github.com/user-attachments/assets/8a92864e-e47a-4261-98e4-720dc4c6749e" />
+(<img width="1366" height="768" alt="Overview_Of_Dashbord" src="https://github.com/user-attachments/assets/8a92864e-e47a-4261-98e4-720dc4c6749e" />
 )
 
 | | |
@@ -66,7 +64,7 @@ Description of the Dataset:
 ## 6. Key insights
 
 **Overall performance**
-![Sale_Analysis](<img width="1366" height="768" alt="Sales_Analysis" src="https://github.com/user-attachments/assets/57229838-3956-4f87-a239-ac423705e9a7" />
+(<img width="1366" height="768" alt="Sales_Analysis" src="https://github.com/user-attachments/assets/57229838-3956-4f87-a239-ac423705e9a7" />
 )
 
 - Sales grew from **$484K (2014)** to **$733K (2017)** (+51 %). Profit margin stayed around 10–13 %.
@@ -87,7 +85,7 @@ The analysis highlights customer distribution across regions, purchasing activit
 
 **Categories**
 
- ![Products_Analysis](<img width="1369" height="722" alt="Products_Analysis" src="https://github.com/user-attachments/assets/4271e26e-8b3d-41f1-a5cc-851faf81c43c" />
+(<img width="1369" height="722" alt="Products_Analysis" src="https://github.com/user-attachments/assets/4271e26e-8b3d-41f1-a5cc-851faf81c43c" />
 )
 
 - **Technology** ($836K) and **Office Supplies** ($719K) generate 94 % of profit.
