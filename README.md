@@ -76,7 +76,8 @@ Description of the Dataset:
 - **Central** is the weakest in profitability: 7.9 % margin on $501K sales.
 
 **Customers**
- ![Customers_Analysis](<img width="1367" height="717" alt="Customer_Analysis" src="https://github.com/user-attachments/assets/f41f22db-0b35-42b2-9f86-f31fe834b234" />
+ 
+ <img width="1367" height="717" alt="Customer_Analysis" src="https://github.com/user-attachments/assets/f41f22db-0b35-42b2-9f86-f31fe834b234" />
 
 The analysis highlights customer distribution across regions, purchasing activity over time, and the contribution of the top customers to overall sales.
 - **Regional Distribution:** **The West region** leads with 686 customers, closely followed by East (674) and Central (629). South has the lowest customer count (512), suggesting an opportunity to strengthen customer acquisition in that region.
@@ -86,8 +87,7 @@ The analysis highlights customer distribution across regions, purchasing activit
 
 **Categories**
 
-(<img width="1369" height="722" alt="Products_Analysis" src="https://github.com/user-attachments/assets/4271e26e-8b3d-41f1-a5cc-851faf81c43c" />
-)
+<img width="1369" height="722" alt="Products_Analysis" src="https://github.com/user-attachments/assets/4271e26e-8b3d-41f1-a5cc-851faf81c43c" />
 
 - **Technology** ($836K) and **Office Supplies** ($719K) generate 94 % of profit.
 - **Furniture** sells a lot ($742K) but earns almost nothing: **2.5 % margin**.
