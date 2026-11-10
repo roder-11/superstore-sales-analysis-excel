@@ -3,8 +3,9 @@ Sales, customers and products analysis in Excel
 # Superstore Sales Analysis (Excel)
 
 > **Project overview sheet** — Sales, customers and products analysis of a US retail dataset (Sample Superstore) built with Excel Tables, formulas and PivotTables.
-(<img width="1366" height="768" alt="Overview_Of_Dashbord" src="https://github.com/user-attachments/assets/8a92864e-e47a-4261-98e4-720dc4c6749e" />
-)
+
+<img width="1366" height="768" alt="Overview_Of_Dashbord" src="https://github.com/user-attachments/assets/8a92864e-e47a-4261-98e4-720dc4c6749e" />
+
 
 | | |
 |---|---|
@@ -64,8 +65,9 @@ Description of the Dataset:
 ## 6. Key insights
 
 **Overall performance**
-(<img width="1366" height="768" alt="Sales_Analysis" src="https://github.com/user-attachments/assets/57229838-3956-4f87-a239-ac423705e9a7" />
-)
+
+<img width="1366" height="768" alt="Sales_Analysis" src="https://github.com/user-attachments/assets/57229838-3956-4f87-a239-ac423705e9a7" />
+
 
 - Sales grew from **$484K (2014)** to **$733K (2017)** (+51 %). Profit margin stayed around 10–13 %.
 
@@ -75,7 +77,6 @@ Description of the Dataset:
 
 **Customers**
  ![Customers_Analysis](<img width="1367" height="717" alt="Customer_Analysis" src="https://github.com/user-attachments/assets/f41f22db-0b35-42b2-9f86-f31fe834b234" />
-)
 
 The analysis highlights customer distribution across regions, purchasing activity over time, and the contribution of the top customers to overall sales.
 - **Regional Distribution:** **The West region** leads with 686 customers, closely followed by East (674) and Central (629). South has the lowest customer count (512), suggesting an opportunity to strengthen customer acquisition in that region.
