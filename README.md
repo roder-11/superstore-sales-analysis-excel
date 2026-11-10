@@ -11,7 +11,7 @@ Sales, customers and products analysis in Excel
 |---|---|
 | **🎯 Objective** | Understand where sales come from, who the best customers are, which products create (or destroy) profit, and how regions perform over time.|
 | **🛠️ Tool** | Microsoft Excel: formulas, SUMIFS / COUNTIFS, data validation (year filter), charts. PivotTables are in the companion workbook (Sales_Analysis.xlsx).
-| **Deliverable** | [`Sample - Superstore.csv.csv`] <a Sample - Superstore.csv <\a>
+| **Deliverable** | [`Sample - Superstore.csv.csv`]
 
 ---
 
