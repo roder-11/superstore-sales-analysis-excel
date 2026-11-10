@@ -77,7 +77,7 @@ Description of the Dataset:
 
 **Customers**
  
- <img width="1367" height="717" alt="Customer_Analysis" src="https://github.com/user-attachments/assets/f41f22db-0b35-42b2-9f86-f31fe834b234" />
+ <img width="1367" height="725" alt="Customer_Analysis" src="https://github.com/user-attachments/assets/39c4dd96-a22d-4692-8b05-faa039f3b94b" />
 
 The analysis highlights customer distribution across regions, purchasing activity over time, and the contribution of the top customers to overall sales.
 - **Regional Distribution:** **The West region** leads with 686 customers, closely followed by East (674) and Central (629). South has the lowest customer count (512), suggesting an opportunity to strengthen customer acquisition in that region.
